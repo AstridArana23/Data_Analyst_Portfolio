@@ -1,5 +1,5 @@
 ## Overview 
-This project uses LSTM to classify IMDB movie reviews by their sentiment. It combines Python and Tableau for visualization. 
+This project uses a LSTM (Long Short‑Term Memory network) to classify IMDB movie reviews by their sentiment. It combines Python and Tableau for visualization. 
 
 ## Objectives 
 - Predict whether a movie review is positive or negative
