@@ -1,8 +1,8 @@
 ## Overview 
-This project uses a LSTM (Long Short‑Term Memory network) to classify IMDB movie reviews by their sentiment. It combines Python and Tableau for visualization. 
+- Online platforms like IMDb host millions of movie reviews, but reading each one of them to understand how an audience feels about it can be time‑consuming and subjective. The goal of this project is to build a data‑driven system that automatically classifies IMDb movie reviews as positive or negative using a Long Short‑Term Memory (LSTM) neural network. By combining Python and ML, the model should develop learning patterns in a review's text and generalize to unseen reviews. Providing a foundation for applications such as recommendation systems and audience‑feedback monitoring.  
 
 ## Objectives 
-- Predict whether a movie review is positive or negative
+- Classify a movie as either positive or negative 
 
 ## Why use a LSTM model? 
 - LSTMs (Long Short‑Term Memory networks) are a type of recurrent neural network designed to handle sequential data like text. Their key advantage is the ability to capture long‑range dependencies. For example, when the sentiment of a sentence depends on words that are far apart.
