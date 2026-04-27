@@ -12,3 +12,24 @@ This project uses a LSTM (Long Short‑Term Memory network) to classify IMDB mov
 - Python (Pandas) 
 - Tableau
 - Google Colab
+
+## Workflow 
+
+
+
+## Key Metrics
+
+
+## Key Insights 
+
+## Project Structure 
+notebooks/ -> Python code + Machine learning model (Colab)
+dashboard/ → Tableau
+data/ → raw dataset
+outputs/ → processed datasets
+
+## Conclusion 
+
+
+## Author 
+Astrid Arana Rivera
