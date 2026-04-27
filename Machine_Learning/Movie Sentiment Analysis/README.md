@@ -1,2 +1,2 @@
 # Overview 
-This project analyzes IMDB movie reviews to conclude an overall sentiment. It combines Python and visualization using Tableau. 
+This project uses LSTM to classify IMDB movie reviews by their sentiment. It combines Python and visualization using Tableau. 
