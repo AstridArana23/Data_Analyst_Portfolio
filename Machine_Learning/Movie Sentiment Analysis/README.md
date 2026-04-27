@@ -1,5 +1,7 @@
 ## Overview 
-- Online platforms like IMDb host millions of movie reviews, but reading each one of them to understand how an audience feels about it can be time‑consuming and subjective. The goal of this project is to build a data‑driven system that automatically classifies IMDb movie reviews as positive or negative using a Long Short‑Term Memory (LSTM) neural network. By combining Python and ML, the model should develop learning patterns in a review's text and generalize to unseen reviews. Providing a foundation for applications such as recommendation systems and audience‑feedback monitoring.  
+- Online platforms like IMDb host millions of movie reviews, but reading each one of them to understand how an audience feels about it can be time‑consuming and subjective. The goal of this project is to build a data‑driven system that automatically classifies IMDb movie reviews as positive or negative using a Long Short‑Term Memory (LSTM) neural network.
+
+By combining Python and ML, the model should develop learning patterns in a review's text and generalize to unseen reviews. Providing a foundation for applications such as recommendation systems and audience‑feedback monitoring.  
 
 ## Objectives 
 - Classify a movie as either positive or negative 
