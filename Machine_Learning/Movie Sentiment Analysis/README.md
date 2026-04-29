@@ -14,7 +14,10 @@ By combining Python and ML, the model should develop learning patterns in a revi
 
 ## Tools & Technologies 
 - Python (Pandas) 
-- Tableau
+- Tensorflow
+- Keras
+- Sylearn
+- matplotlib
 - Google Colab
 
 ## Workflow 
