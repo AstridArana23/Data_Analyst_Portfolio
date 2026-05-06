@@ -12,22 +12,23 @@ Logistics companies often face challenges such as late deliveries, inconsistent 
 
 ## Dataset 
 The dataset contains logistics shipment records with features such as: 
-- Order Id:
-- Agent Age:
-- Agent_Rating
-- Store_ Latitude
-- Store Longitud
-- Drop_Latitude
-- Drop_Longitude
-- Order_Date
-- Order_Time
-- Pickup_Time
-- Weather
-- Traffic
-- Vehicle
-- Area
-- Delivery_Time
-- Category
+- Order ID: Unique identifier for each order
+- Agent Age: Age of the delivery agent
+- Agent_Rating: Rating or performance score of the delivery agent
+- Store_ Latitude: Geographic coordinates of the store where the order was placed
+- Store_Longitude: Geographic coordinates of the store where the order was placed
+- Drop_Latitude: Geographic coordinates of the delivery location
+- Drop_Longitude: Geographic coordinates of the delivery location
+- Order_Date: Date when the order was placed
+- Order_Time: Time when the order was placed
+- Pickup_Time: Time when the order was picked up for delivery
+- Weather: Weather conditions during the delivery (e.g., sunny, rainy, snowy  
+- Traffic: Traffic conditions during the delivery (e.g., low, medium, jam) 
+- Vehicle: Type of vehicle used for the delivery (e.g., van, motorcycle, bicycle, scooter)
+- Area: Area where the delivery took place (Urban, Metropolitan, etc)
+- Delivery_Time: Time taken to complete the delivery (time unit)
+- Category: Product category of the ordered item (e.g., electronics, apparel, groceries)
+
 Source: Kaggle https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset
 
 ## Tools & Technologies 
